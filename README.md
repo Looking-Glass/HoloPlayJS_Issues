@@ -1,2 +1,2 @@
 # HoloPlayJS_Issues
-A repository for feature requests and bug reports for the HoloPlay.js library. This repository doesn't contain source code. You can download the HoloPlay.js library at https://docs.lookingglassfactory.com/developer-tools/three/setup
+We have deprecated support for HoloPlay.js. Please use our [WebXR Library](https://github.com/Looking-Glass/looking-glass-webxr) instead.
